@@ -8,6 +8,5 @@ Android
 APK: https://drive.google.com/file/d/1FnxA6cPDGMeLJmnEEvGGiTHZ8FT5bxhi/view?usp=sharing
 
 # Kullanım
-
-https://github.com/salihturkoglu/saymayi_ogreniyorum/assets/45241269/059db357-6817-4610-89de-c28b68628d57
+https://github.com/salihturkoglu/saymayi_ogreniyorum/assets/45241269/28171ba9-0c7f-4c82-b9f7-59e198dd7930
 
