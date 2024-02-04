@@ -7,3 +7,7 @@ AR Tabanlı Eğitim Teknolojileri Uygulaması
 Android 
 APK: https://drive.google.com/file/d/1FnxA6cPDGMeLJmnEEvGGiTHZ8FT5bxhi/view?usp=sharing
 
+# Kullanım
+
+https://github.com/salihturkoglu/saymayi_ogreniyorum/assets/45241269/059db357-6817-4610-89de-c28b68628d57
+
